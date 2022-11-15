@@ -6,7 +6,7 @@ plugins:
   - jekyll-github-metadata
   - jemoji
 
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title
 
 defaults:
   -
@@ -36,7 +36,7 @@ social_media:
   instagram: chrisblake92
   # keybase: your_username
   # linkedin: your_username
-  # mastodon: your_username
+  mastodon: '@arith'
   # medium: your_username
   stackoverflow: 1663302
   # telegram: your_username
